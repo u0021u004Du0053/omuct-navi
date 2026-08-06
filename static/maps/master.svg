@@ -6,10 +6,7 @@
 <path id="stg_main-gate" fill-rule="evenodd" clip-rule="evenodd" d="M740.5 1509H698V1541H740.5V1509Z" stroke="black"/>
 <path id="yashi" fill-rule="evenodd" clip-rule="evenodd" d="M641.5 1447C620 1447 610 1442 602 1429L602.5 1367C610.465 1354.33 621.5 1349 641.5 1349C661.5 1349 674.81 1355.89 683 1367V1427C679.5 1440.5 663 1447 641.5 1447Z" stroke="black"/>
 <path id="admin-bldg" fill-rule="evenodd" clip-rule="evenodd" d="M580.5 1423.5H403.5V1380.5H377V1367.5H403.5V1324.5H580.5V1423.5Z" stroke="black"/>
-<g id="la-bldg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M552 1071.5H410V1143H552V1071.5Z" stroke="black"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M581 1027.5H381V1182.5H581V1027.5Z" stroke="black"/>
-</g>
+<path id="la-bldg" fill-rule="evenodd" clip-rule="evenodd" d="M552 1071.5H410V1143H552V1071.5Z" stroke="black"/>
 <path id="ss-bldg_1" fill-rule="evenodd" clip-rule="evenodd" d="M921 836H627V929.5H921V836Z" stroke="black"/>
 <path id="ss-bldg_2" fill-rule="evenodd" clip-rule="evenodd" d="M256 836H579V929.5H256V836Z" stroke="black"/>
 <path id="gym" fill-rule="evenodd" clip-rule="evenodd" d="M954 1317H741V1453H954V1317Z" stroke="black"/>
