@@ -2,6 +2,11 @@
 
 OMUCT Naviは、校内の教室や施設を探し、目的地までの経路を地図で確認できるナビゲーションアプリです。
 
+## アクセス
+
+通常ver:https://omuct-navi.ms-fe4.workers.dev/
+2026年高専祭ver:https://kosen-fes-omuct-navi.ms-fe4.workers.dev/
+
 ## 主な機能
 
 - 校内マップ：建物を選択し、階ごとのフロアマップを確認できます。
